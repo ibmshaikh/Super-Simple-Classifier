@@ -7,7 +7,6 @@ It use ScikitLearn DecisionTree Classifier.
 http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
 
 # Output
-python Classifier.py
 ['pass']
-[[50, 15]]
+
 
