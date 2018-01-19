@@ -6,5 +6,9 @@ This pograme pridict that the Student will pass or Fail by using , The Number of
 It use ScikitLearn DecisionTree Classifier.
 http://scikit-learn.org/stable/modules/generated/sklearn.tree.DecisionTreeClassifier.html
 
-The programe is For Learning purpose only
+# Output
+python Classifier.py
+['pass']
+[[50, 15]]
 
+The programe is For Learning purpose only
