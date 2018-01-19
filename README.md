@@ -11,4 +11,3 @@ python Classifier.py
 ['pass']
 [[50, 15]]
 
-The programe is For Learning purpose only
