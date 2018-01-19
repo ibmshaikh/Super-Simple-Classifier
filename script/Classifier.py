@@ -14,7 +14,7 @@ Y = ['pass', 'pass', 'pass', 'pass', 'pass', 'pass', 'pass','pass','fail', 'fail
 
 clf = clf.fit(X, Y)
 
-x=[[50,9]]
+x=[[50,15]]
 
 #Predict the Example
 
